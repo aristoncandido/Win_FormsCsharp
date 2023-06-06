@@ -1,0 +1,15 @@
+C:\Users\Ariston Cândido\Desktop\As paradas\FormsCSHARP\bin\Debug\net7.0-windows\FormsCSHARP.exe
+C:\Users\Ariston Cândido\Desktop\As paradas\FormsCSHARP\bin\Debug\net7.0-windows\FormsCSHARP.deps.json
+C:\Users\Ariston Cândido\Desktop\As paradas\FormsCSHARP\bin\Debug\net7.0-windows\FormsCSHARP.runtimeconfig.json
+C:\Users\Ariston Cândido\Desktop\As paradas\FormsCSHARP\bin\Debug\net7.0-windows\FormsCSHARP.dll
+C:\Users\Ariston Cândido\Desktop\As paradas\FormsCSHARP\bin\Debug\net7.0-windows\FormsCSHARP.pdb
+C:\Users\Ariston Cândido\Desktop\As paradas\FormsCSHARP\obj\Debug\net7.0-windows\FormsCSHARP.csproj.AssemblyReference.cache
+C:\Users\Ariston Cândido\Desktop\As paradas\FormsCSHARP\obj\Debug\net7.0-windows\FormsCSHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariston Cândido\Desktop\As paradas\FormsCSHARP\obj\Debug\net7.0-windows\FormsCSHARP.AssemblyInfoInputs.cache
+C:\Users\Ariston Cândido\Desktop\As paradas\FormsCSHARP\obj\Debug\net7.0-windows\FormsCSHARP.AssemblyInfo.cs
+C:\Users\Ariston Cândido\Desktop\As paradas\FormsCSHARP\obj\Debug\net7.0-windows\FormsCSHARP.csproj.CoreCompileInputs.cache
+C:\Users\Ariston Cândido\Desktop\As paradas\FormsCSHARP\obj\Debug\net7.0-windows\FormsCSHARP.dll
+C:\Users\Ariston Cândido\Desktop\As paradas\FormsCSHARP\obj\Debug\net7.0-windows\refint\FormsCSHARP.dll
+C:\Users\Ariston Cândido\Desktop\As paradas\FormsCSHARP\obj\Debug\net7.0-windows\FormsCSHARP.pdb
+C:\Users\Ariston Cândido\Desktop\As paradas\FormsCSHARP\obj\Debug\net7.0-windows\FormsCSHARP.genruntimeconfig.cache
+C:\Users\Ariston Cândido\Desktop\As paradas\FormsCSHARP\obj\Debug\net7.0-windows\ref\FormsCSHARP.dll
