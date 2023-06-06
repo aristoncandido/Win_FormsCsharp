@@ -26,13 +26,33 @@ partial class Form1
     ///  Required method for Designer support - do not modify
     ///  the contents of this method with the code editor.
     /// </summary>
-    private void InitializeComponent()
-    {
-        this.components = new System.ComponentModel.Container();
-        this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-        this.ClientSize = new System.Drawing.Size(800, 450);
-        this.Text = "Form1";
-    }
+   private void InitializeComponent()
+{
+    // Criação dos controles
+    Label labelNota1 = new Label();
+    TextBox textBoxNota1 = new TextBox();
+    Label labelNota2 = new Label();
+    TextBox textBoxNota2 = new TextBox();
+    Button buttonCalcularMedia = new Button();
+
+    // Configuração dos controles
+    labelNota1.Text = "Nota 1:";
+    textBoxNota1.Location = new Point(100, 50);
+    labelNota2.Text = "Nota 2:";
+    textBoxNota2.Location = new Point(100, 80);
+    buttonCalcularMedia.Text = "Calcular Média";
+    buttonCalcularMedia.Location = new Point(100, 110);
+    buttonCalcularMedia.Click += buttonCalcularMedia_Click;
+
+    // Adicionando os controles ao formulário
+    Controls.Add(labelNota1);
+    Controls.Add(textBoxNota1);
+    Controls.Add(labelNota2);
+    Controls.Add(textBoxNota2);
+    Controls.Add(buttonCalcularMedia);
+
+    // Resto do código gerado automaticamente
+}
 
     #endregion
 }
